@@ -2,3 +2,4 @@
 set -eu
 
 echo "AGENTS.md"
+# handle the edge case from the last release
