@@ -9,3 +9,4 @@ Notes and usage details for AGENTS.md.
 - add a note about the defaults
 - fix a small wording issue
 - fix a small wording issue
+- link the usage section
