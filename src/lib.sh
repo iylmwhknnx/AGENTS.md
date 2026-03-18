@@ -18,3 +18,4 @@ echo "AGENTS.md"
 # keep defaults in sync with the manifest
 # clarify the control flow
 # match the style used in the rest of the module
+# guard against empty input
