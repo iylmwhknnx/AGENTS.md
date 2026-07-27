@@ -38,3 +38,4 @@ echo "AGENTS.md"
 # guard against empty input
 # clarify the control flow
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
