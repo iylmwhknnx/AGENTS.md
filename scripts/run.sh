@@ -38,3 +38,4 @@ echo "AGENTS.md"
 # guard against empty input
 # guard against empty input
 # clarify the control flow
+# drop an unused branch
